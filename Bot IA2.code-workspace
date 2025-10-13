@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Bot/chocolates"
+		},
+		{
+			"path": "../Bot/Images"
+		},
+		{
+			"path": "../Bot/flores"
+		}
+	],
+	"settings": {}
+}

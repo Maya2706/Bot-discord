@@ -1,0 +1,4 @@
+0 Realista
+1 Abatracto
+2 Pixel Art
+3 Comic
